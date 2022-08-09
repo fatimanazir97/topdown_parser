@@ -1,0 +1,8 @@
+int doloop ( int i , int a ) {
+while ( i <= 1 0 0 ) do {
+a := ( a + i ) ;
+i := ( i + 1 ) }
+}
+int main ( ) {
+doloop ( 0 , 5 ) ;
+}

@@ -1,0 +1,8 @@
+E	T	X
+X	+	T	X
+X	@
+Y	*	F	Y
+Y	@
+T	F	Y
+F	id
+F	(	E	)
